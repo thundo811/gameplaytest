@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/gameplaytest/static/js/main.ba70e80a.chunk.js",
+    "main.js.map": "/gameplaytest/static/js/main.ba70e80a.chunk.js.map",
+    "runtime~main.js": "/gameplaytest/static/js/runtime~main.6dcbbeb3.js",
+    "runtime~main.js.map": "/gameplaytest/static/js/runtime~main.6dcbbeb3.js.map",
+    "static/js/2.950e1f53.chunk.js": "/gameplaytest/static/js/2.950e1f53.chunk.js",
+    "static/js/2.950e1f53.chunk.js.map": "/gameplaytest/static/js/2.950e1f53.chunk.js.map",
+    "index.html": "/gameplaytest/index.html",
+    "precache-manifest.4080e7cfda29a4ea0347fd868ff96f1e.js": "/gameplaytest/precache-manifest.4080e7cfda29a4ea0347fd868ff96f1e.js",
+    "service-worker.js": "/gameplaytest/service-worker.js"
+  }
+}
