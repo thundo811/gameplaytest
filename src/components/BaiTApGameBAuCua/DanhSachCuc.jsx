@@ -7,9 +7,9 @@ class DanhSachCuc extends Component {
         return (
             this.props.xucSac.map((xs, index) => {
                 return (
-                    <div className="col-4 mb-5" key={index} >
+                    <div className="col-6   col-md-4 mb-5" key={index} >
                     <button onClick={()=>this.props.datCuocAction(xs.ma)} className='btn btn-outline-success' disabled={this.props.tongDiem>0?false:true}>
-                        <img src={xs.hinhAnh} alt="" />
+                        <img className='w-75' src={xs.hinhAnh} alt="" />
                         <br />
                         <span className='text-danger display-4'>{xs.diemCuoc}</span>
                     </button>
